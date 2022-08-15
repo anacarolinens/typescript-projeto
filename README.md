@@ -13,3 +13,4 @@
    2. "dev": "npx ts-node src/index.ts",
    3. "build": "rimraf dist && npx tsc",
    4. "build-and-run": "npm rum build && npm start"
+ },
