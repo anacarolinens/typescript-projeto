@@ -1,4 +1,4 @@
-# *Comandos
+# * Comandos
 
 - npm init -y (Inicializa um projeto  NodejS)
 - i -D typescript (Instalando o typescript como DevDependency)
@@ -7,7 +7,7 @@
 - node index.js (Execeuta o arquivo.JS)
 - npx ts-node index.ts (Executa diretamente o arquivo.ts)
 
-##Alterações no arquivo packege.json
+## Alterações no arquivo packege.json
 * "scripts": {
    1. "start": "node dist/index.js",
    2. "dev": "npx ts-node src/index.ts",
