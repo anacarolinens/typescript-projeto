@@ -1,4 +1,4 @@
-# * Comandos
+# Comandos
 
 - npm init -y (Inicializa um projeto  NodejS)
 - i -D typescript (Instalando o typescript como DevDependency)
